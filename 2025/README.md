@@ -94,7 +94,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - Seems Good Enough to Me: Working with Test to Derisk Upgrades
 - Shorts on Sorts
 - Smart Home, Safe Home: Essential Tips for Securing Your IoT Devices
-- Soaring High with Pico Balloons:  Telemetry in Action - Intro
+- [Soaring High with Pico Balloons:  Telemetry in Action - Intro](https://gitlab.com/codemash/cm2025pub/-/tree/main/SoaringHighWithPicoBalloons)
 - Stop Fearing Databases—SQL vs. NoSQL: Navigating the Database Dilemma
 - Swift Data Saves The Day
 - Technical Empathy
@@ -145,7 +145,7 @@ These are the sessions that happened on each day, listed alphabetically by title
 - Making Predictions Out of Thin Air: Data Science's Ultimate Hack
 - Mind Mechanics: Fine-Tuning Cognitive Function for the Engineering Mind
 - Modularizing the Monolith
-- Off-Grid Communication with LoRa and Meshtastic
+- [Off-Grid Communication with LoRa and Meshtastic](https://gitlab.com/codemash/cm2025pub/-/tree/main/OffGridCommsMeshtastic)
 - Onboarding and Mentoring:  A Surprisingly Winning Combination
 - Owning Your Experience: Talking about Mental Health In the Workplace
 - Scaling Automated Tests to Infinity and Beyond
